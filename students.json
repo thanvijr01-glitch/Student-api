@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice.@example.com",
+    "course": "IT",
+    "year": 3,
+    "id": "8padxdelf",
+    "createdAt": "2026-03-17T04:07:56.908Z",
+    "updatedAt": "2026-03-17T04:07:56.908Z"
+  },
+  {
+    "name": "Bob",
+    "email": "bob@example.com",
+    "course": "Mechanical Engineering",
+    "year": 3,
+    "id": "03ub8msmf",
+    "createdAt": "2026-03-17T04:11:11.943Z",
+    "updatedAt": "2026-03-17T04:11:11.943Z"
+  },
+  {
+    "name": "thanvi",
+    "email": "thnvi@example.com",
+    "course": "computer science eng",
+    "year": 2,
+    "id": "20dmr9flj",
+    "createdAt": "2026-03-17T04:14:00.966Z",
+    "updatedAt": "2026-03-17T04:14:00.966Z"
+  },
+  {
+    "name": "rash",
+    "email": "rash@example.com",
+    "course": "bach physio",
+    "year": 1,
+    "id": "pahsq24ao",
+    "createdAt": "2026-03-17T04:14:34.060Z",
+    "updatedAt": "2026-03-17T04:14:34.060Z"
+  }
+]
